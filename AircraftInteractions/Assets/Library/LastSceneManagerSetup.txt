@@ -1,4 +1,0 @@
-sceneSetups:
-- path: interactionKLMScene.unity
-  isLoaded: 1
-  isActive: 1
